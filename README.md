@@ -1,6 +1,6 @@
 # CustomerCare_agent
 Author: Wairagu Wilberforce
 
-This agent allows users to ask questions about a store and interact with the customer
+This agent responds frequently asked questions and enquiry services such as Returns to customers visiting the help desk tab to an online store
 
-https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=98bb8087-9318-46c3-b860-982d65301f94&serviceInstanceID=b9fbd4f2-e30f-40c5-9df1-f459d218a756
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=b1da3c5d-225a-4114-a7de-f943f44613c3&serviceInstanceID=fdb6f7da-7e02-4a48-b766-b739f98212a9
